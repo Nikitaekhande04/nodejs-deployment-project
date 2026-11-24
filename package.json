@@ -1,0 +1,13 @@
+
+{
+  "name": "nodejs-deployment-project",
+  "version": "1.0.0",
+  "description": "Node.js Application Deployment Project",
+  "main": "app.js",
+  "scripts": {
+    "start": "node app.js"
+  },
+  "dependencies": {
+    "express": "^5.1.0"
+  }
+}
